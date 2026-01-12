@@ -1,4 +1,4 @@
-# OOP Task: Library Management System
+# OOP Task: Library Management Sys
 
 ## Objective
 Build a simple Library Management System to practice Object-Oriented Programming concepts including classes, objects, encapsulation, and basic methods.
